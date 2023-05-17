@@ -1,5 +1,5 @@
-<center>Down2Earth Training workshop on Python programming for ICPAC staff</center>
-<center>29 th May – 2 nd June 2023, Naivasha, Kenya</center>
+<h1 align="center">Down2Earth Training workshop on Python programming for ICPAC staff</h1>
+<h2 align="center">29<sup>th</sup> May – 2<sup>nd</sup> June 2023, Naivasha, Kenya</h2>
 
 ## Goal:
 The main goal of the training is to improve the capacity of ICPAC staff in the use and
