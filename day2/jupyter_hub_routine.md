@@ -14,6 +14,7 @@ Use following commands
 pwd
 git clone https://github.com/lutta2022/python-workshop.git
 ```
+![image info](Screenshot_2023-06-01_13-12-52.png)
 4. After cloning in the terminal, get into the JupyterHub interface, (by clicking the JupyterHub logo), enter into the folder `python-workshop` and access the notebook in each folder
 
 ![image info](Screenshot_2023-06-01_13-08-04.png)
