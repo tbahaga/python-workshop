@@ -12,3 +12,7 @@ applications of Python programming for hydrological and climate forecast modelin
 * Understand operators, sets, methods, and dictionaries in-depth
 * Run commands by implementing conditional statements, loops, and functions
 * Basic understanding of python skills required for the use and applications of CUWALID and in hydrological forecast and climate models.
+
+## JupyterHub link
+
+a258f5237fbd744a2b0d6763d573f0eb-700020107.us-east-1.elb.amazonaws.com
